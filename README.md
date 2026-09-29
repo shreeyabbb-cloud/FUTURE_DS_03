@@ -19,7 +19,7 @@ Python (pandas, Google Colab) and Power BI Desktop.
 ## Key Insights
 
 ### Funnel Overview
-41K contacted, 24K engaged (59.11%), 5K converted (11.3% overall).
+Of 41,176 customers contacted, 24,343 became engaged (59.11%) and 4,640 ultimately converted (11.3% overall). The gap between engagement and conversion is the real story here — nearly 6 in 10 contacted customers show some engagement signal, but fewer than 1 in 5 of those actually convert, pointing to a nurturing gap rather than a top-of-funnel problem. Since almost 41% of customers never even reach the engaged stage, there's also room to improve initial contact quality, not just what happens after. Recommendation: invest in mid-funnel nurturing (follow-up timing, messaging tailored to engaged-but-unconverted customers) alongside efforts to lift first-contact engagement, since both stages are leaking meaningful volume.
 
 ### Channel Performance
 Cellular contacts convert at about 15% versus about 5% for telephone, nearly 3x higher. Timing matters too: May accounts for a third of all contacts (13,767 of 41,176) yet converts at only 6.44%, while March, September, October and December each convert at 44-51% on far smaller volumes (under 720 contacts each). The campaign spends most of its effort in its weakest month.
